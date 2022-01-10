@@ -36,4 +36,4 @@ There are two XLSX files.<br/>
 
 ## 6. Interesting Web crawler task
 Converting the written document in this [page](https://publications.parliament.uk/pa/cm/cmregmem/contents2122.htm) to CSV or XML.<br/>
-This page contains information about any financial interest which a Member has, or any benefit which he or she receives, which others might reasonably consider to influence his or her actions or words as a Member of Parliament.<br/>
+This page contains information about any financial interest which a Member has, or any benefit which he or she receives, which others might reasonably consider to influence his or her actions or words as a Member of the UK Parliament.<br/>
