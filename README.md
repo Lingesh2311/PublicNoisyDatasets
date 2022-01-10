@@ -11,7 +11,7 @@ It is a **1.47 GB CSV** file.<br/>
 ## 2. Arlington County Employees Demographic data
 List of Arlington County employees in permanent positions at the start of the current Fiscal Year. Data includes demographic information as well as the employee’s Department and Job Title.
 It is a single JSON file.<br/>
-[more info](https://catalog.data.gov/dataset/employee-demographics)<br/>
+[more info](https://data.arlingtonva.us/dataset/152)<br/>
 [download here](https://raw.githubusercontent.com/Lingesh2311/PublicNoisyDatasets/main/EmployeeDemographics/Employee%2BDemographics.json)<br/>
 
 ## 3. Flourish OA
