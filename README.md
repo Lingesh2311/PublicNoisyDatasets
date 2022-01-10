@@ -25,6 +25,7 @@ There are two csv files.<br/>
 Ranked candy based on their location in various geological strata, both real and imagined. The strata, not the ranking. In 2006, we compiled years of lived experience into a hierarchy of candy preference for Halloween. Not all candy. Not all times. But for trick or treating purposes.<br/>
 There is one csv file.<br/>
 [more info](https://www.scq.ubc.ca/so-much-candy-data-seriously/)<br/>
+[infographic](https://www.scq.ubc.ca/wp-content/uploads/2017/10/candyhierarchy2017.png)<br/>
 [download here](https://raw.githubusercontent.com/Lingesh2311/PublicNoisyDatasets/main/CandyHierarchy/candyhierarchy2017.csv)<br/>
 
 ## 5. National Drug Code Directory
