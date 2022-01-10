@@ -1,6 +1,6 @@
 # Public Noisy Datasets
 
-This repository contains the noisy publicly available datasets.
+This repository contains the publicly available noisy datasets.
 
 ## 1. Consumer Complaint Database
 The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.<br/>
