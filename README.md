@@ -1,4 +1,4 @@
-# Public Noisy Datasets
+# Noisy Public Datasets
 
 This repository contains the publicly available noisy datasets.
 
