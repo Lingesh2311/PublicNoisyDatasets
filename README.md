@@ -6,6 +6,7 @@ This repository contains the publicly available noisy datasets.
 The Consumer Complaint Database is a collection of complaints about consumer financial products and services that we sent to companies for response. Complaints are published after the company responds, confirming a commercial relationship with the consumer, or after 15 days, whichever comes first.<br/>
 It is a **1.47 GB CSV** file.<br/>
 [more info](https://catalog.data.gov/dataset/consumer-complaint-database)<br/>
+[download here](https://files.consumerfinance.gov/ccdb/complaints.csv.zip)
 
 ## 2. Arlington County Employees Demographic data
 List of Arlington County employees in permanent positions at the start of the current Fiscal Year. Data includes demographic information as well as the employee’s Department and Job Title.
